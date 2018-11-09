@@ -1,3 +1,9 @@
+Installation du projet :
+
+1) Cloner le repo, se placer dessus via un terminal.
+2) Lancer la commande : yarn puis yarn start.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
